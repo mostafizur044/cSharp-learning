@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\c# example\\learning\\abstract_class\\abstract_class\\abstract_class.csproj": {}
+  },
+  "projects": {
+    "D:\\c# example\\learning\\abstract_class\\abstract_class\\abstract_class.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c# example\\learning\\abstract_class\\abstract_class\\abstract_class.csproj",
+        "projectName": "abstract_class",
+        "projectPath": "D:\\c# example\\learning\\abstract_class\\abstract_class\\abstract_class.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\c# example\\learning\\abstract_class\\abstract_class\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.selise.biz/nuget/": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
