@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXu/sJ1RKsCev/KNNR17pfPkjnGzIZGfQ4oiP1l1KbtjAfkimS9rR1wxyllvfHl4pJXmJdUBKznBeWVLY1S+mQ==",
+  "dgSpecHash": "BW5jDoLr3Uf3fg8rneZSOFhGmJ/bGC5qEMEifhwFSXHuXy1XSlorjGsk1bHJ03AXqchDrGdiqvZYSvHfE3z9tA==",
   "success": true,
-  "projectFilePath": "D:\\c# example\\Catelog_With_Net_6\\Catelog.csproj",
+  "projectFilePath": "D:\\c# example\\learning c# repo\\Catelog_With_Net_6\\Catelog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

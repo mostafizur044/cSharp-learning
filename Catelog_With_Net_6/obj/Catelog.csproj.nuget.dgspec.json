@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c# example\\Catelog_With_Net_6\\Catelog.csproj": {}
+    "D:\\c# example\\learning c# repo\\Catelog_With_Net_6\\Catelog.csproj": {}
   },
   "projects": {
-    "D:\\c# example\\Catelog_With_Net_6\\Catelog.csproj": {
+    "D:\\c# example\\learning c# repo\\Catelog_With_Net_6\\Catelog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c# example\\Catelog_With_Net_6\\Catelog.csproj",
+        "projectUniqueName": "D:\\c# example\\learning c# repo\\Catelog_With_Net_6\\Catelog.csproj",
         "projectName": "Catelog",
-        "projectPath": "D:\\c# example\\Catelog_With_Net_6\\Catelog.csproj",
+        "projectPath": "D:\\c# example\\learning c# repo\\Catelog_With_Net_6\\Catelog.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\c# example\\Catelog_With_Net_6\\obj\\",
+        "outputPath": "D:\\c# example\\learning c# repo\\Catelog_With_Net_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
